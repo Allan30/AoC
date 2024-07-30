@@ -34,9 +34,9 @@ main.py: The Python script containing the solution for the day's puzzle.
 input.txt: The input data provided for the puzzle.
 
 ## Solutions
-In 2021, I managed to solve 16 out of the 24 puzzles.
+In 2021, I managed to solve 16 out of the 24 puzzles : https://adventofcode.com/2021
 
-In 2023, I managed to solve 15 out of the 24 puzzles.
+In 2023, I managed to solve 15 out of the 24 puzzles : https://adventofcode.com/2023
 
 ## How to Run
 Clone the repository:
