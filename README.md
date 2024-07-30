@@ -42,7 +42,7 @@ In 2023, I managed to solve 15 out of the 24 puzzles.
 Clone the repository:
 ```sh
 git clone https://github.com/yourusername/aoc-solutions.git
-cd aoc-solutions
+cd AoC
 ```
 
 Navigate to the desired year's directory and the specific day's directory:
